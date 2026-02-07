@@ -1,6 +1,6 @@
 # java-dsa
 
-Java implementation of data structures and alorithms
+Java implementation of data structures and algorithms
 
 ##Topics
 - Arrays
